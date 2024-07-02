@@ -24,8 +24,16 @@ This repository contains the source code for a blood donation website. The websi
 
 1. Clone the Client repository:
    ```sh
-   git clone (https://github.com/hasanalam365/Reddrop-Server)
+   git clone https://github.com/hasanalam365/Reddrop-Server
 
 2. Clone the Server repository:
    ```sh
-   git clone (https://github.com/hasanalam365/Reddrop-Client-)
+   git clone https://github.com/hasanalam365/Reddrop-Client-
+
+3. Navigate to the project directory:
+```sh
+cd Reddrop-Server
+cd Reddrop-Client-
+
+4. Install the dependencies:
+npm start
