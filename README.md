@@ -2,6 +2,11 @@
 
 This repository contains the source code for a blood donation website. The website allows users to create blood requests, donate blood, add and remove requests, and provides an admin dashboard for managing all donation requests. It also includes a funding page with Stripe integration and utilizes React Jodit Editor for content management.
 
+## Repogitory:
+- [Client Side Repogitory](https://github.com/hasanalam365/Reddrop-Client-)
+- [Server Side Repogitory](https://github.com/hasanalam365/Reddrop-Server)
+
+
 ## Admin User:
 - **User Name: developer@gmail.com
 - **password: 123456
@@ -27,20 +32,12 @@ This repository contains the source code for a blood donation website. The websi
 ### Installation
 
 
-1. Clone the Client repository:
-   ```sh
-   git clone https://github.com/hasanalam365/Reddrop-Server
-
-2. Clone the Server repository:
-   ```sh
-   git clone https://github.com/hasanalam365/Reddrop-Client-
-
-3. Navigate to the project directory:
+1. Navigate to the project directory:
    ```sh
    cd Reddrop-Server
    cd Reddrop-Client-
 
-4. Install the dependencies:
+2. Install the dependencies:
    ```sh
    npm install
 
@@ -48,17 +45,17 @@ This repository contains the source code for a blood donation website. The websi
 Create a .env file in the root of the project and add the following environment variables:
 
 
-4. .env:
+3. .env:
    ```sh
    REACT_APP_STRIPE_KEY=your_stripe_key_here
    REACT_APP_API_URL=your_api_url_here
   
 
-5. Running the Project:
+4. Running the Project:
    ```sh
    npm start
 
-3. localhost 5000:
+5. localhost 5000:
    ```sh
    npm run dev
 
