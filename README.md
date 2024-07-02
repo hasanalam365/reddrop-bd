@@ -33,7 +33,8 @@ This repository contains the source code for a blood donation website. The websi
 
 3. Navigate to the project directory:
    ```sh
-  cd blood-donation-website
+   cd Reddrop-Server
+   cd Reddrop-Client-
 
 4. Install the dependencies:
    ```sh
@@ -45,8 +46,9 @@ Create a .env file in the root of the project and add the following environment 
 
 4. .env:
    ```sh
-  REACT_APP_STRIPE_KEY=your_stripe_key_here
-REACT_APP_API_URL=your_api_url_here
+   REACT_APP_STRIPE_KEY=your_stripe_key_here
+   REACT_APP_API_URL=your_api_url_here
+  
 
 5. Running the Project:
    ```sh
