@@ -22,6 +22,7 @@ This repository contains the source code for a blood donation website. The websi
 
 ### Installation
 
+
 1. Clone the Client repository:
    ```sh
    git clone https://github.com/hasanalam365/Reddrop-Server
@@ -31,9 +32,27 @@ This repository contains the source code for a blood donation website. The websi
    git clone https://github.com/hasanalam365/Reddrop-Client-
 
 3. Navigate to the project directory:
-```sh
-cd Reddrop-Server
-cd Reddrop-Client-
+   ```sh
+  cd blood-donation-website
 
 4. Install the dependencies:
-npm start
+   ```sh
+   npm install
+
+### Environment Variables
+Create a .env file in the root of the project and add the following environment variables:
+
+
+4. .env:
+   ```sh
+  REACT_APP_STRIPE_KEY=your_stripe_key_here
+REACT_APP_API_URL=your_api_url_here
+
+5. Running the Project:
+   ```sh
+   npm start
+
+3. localhost 5000:
+   ```sh
+   npm run dev
+
