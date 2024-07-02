@@ -1,6 +1,10 @@
-# Blood Donation Website
+# Reddrpp-bd
 
 This repository contains the source code for a blood donation website. The website allows users to create blood requests, donate blood, add and remove requests, and provides an admin dashboard for managing all donation requests. It also includes a funding page with Stripe integration and utilizes React Jodit Editor for content management.
+
+## Admin User:
+- **User Name: developer@gmail.com
+- **password: 123456
 
 ## Features
 
