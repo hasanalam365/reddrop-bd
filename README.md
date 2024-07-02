@@ -22,10 +22,10 @@ This repository contains the source code for a blood donation website. The websi
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the Client repository:
    ```sh
-   git clone https://github.com/yourusername/blood-donation-website.git
+   git clone (https://github.com/hasanalam365/Reddrop-Server)
 
-2. Clone the repository:
+2. Clone the Server repository:
    ```sh
-   git clone https://github.com/yourusername/blood-donation-website.git
+   git clone (https://github.com/hasanalam365/Reddrop-Client-)
