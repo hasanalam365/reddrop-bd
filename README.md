@@ -9,8 +9,8 @@ The website allows users to create blood requests, donate blood, add and remove 
 
 
 ## Admin User:
-- **User Name: developer@gmail.com
-- **password: 123456
+- User Name: developer@gmail.com
+- password: 123456
 
 ## Features
 
