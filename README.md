@@ -22,6 +22,38 @@ The website allows users to create blood requests, donate blood, add and remove 
 - **Rich Text Editing:** Utilize React Jodit Editor for creating and editing content.
 - **Responsive Design:** Optimized for mobile and desktop viewing.
 
+## Technologies
+
+### Frontend
+
+- React.js
+- Tailwind CSS
+- daisyui
+- stripe
+- react hook form
+- rich text editor
+- axios
+- react-calender
+- react-datepicker
+- tansQuery
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MongoDB (MongoDB Atlas)
+
+### Authentication
+
+- Firebase Authentication
+
+### Deployment
+
+- Vercel
+
 ## Getting Started
 
 ### Prerequisites
